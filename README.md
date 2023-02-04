@@ -33,7 +33,9 @@ Si el monto es menor que cero entonces se cancela la operación
 
 ~~~
 
-![](https://github.com/EmanuelQuirino99/Ejercicio_01/blob/master/Diagrama%20de%20clases.png)
+
 
 
 Etapa 03 Diseño de la Solución 
+
+![](https://github.com/EmanuelQuirino99/Ejercicio_01/blob/master/Diagrama%20de%20clases.png)
